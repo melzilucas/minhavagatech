@@ -1,4 +1,4 @@
-# Hi! 👋 | @minhavagatech
+# Hi, I'm @minhavagatech 👋
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/minhavagatech/)
