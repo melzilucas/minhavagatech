@@ -5,7 +5,7 @@
   <h1 align="center">Guia Extenso sobre Tecnologias</h1>
 </p>
 
-## :dart: O guia para alavancar a sua carreira
+## :dart: O guia para alcançar sua primeira oportunidade no mercado tech :)
 
 > Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras.
 
@@ -687,7 +687,6 @@
 
 ## 👔 Aumentando o network
 
-- [Guia Dev Brasil](https://linktr.ee/guiadevbrasil) - Guia Dev Brasil
 - [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
 - [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
 - [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord
@@ -697,6 +696,7 @@
 - [Dev.to](https://dev.to/) - Rede social para desenvolvedores
 - [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
 - [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
+- [Linkedin](https://www.linkedin.com/in/lucas-eduardo-melzi/) - Linkedin - Lucas Eduardo Melzi
 - [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 - [OsProgramadores](https://t.me/osprogramadores) - Grupo para incentivar o aprendizado de programação.
 
