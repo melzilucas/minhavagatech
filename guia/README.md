@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/melzilucas/minhavagatech">
-    <img src="./images/guia.png" alt="Guia Extenso de Programação" width="160" height="160">
+    <img src="https://github.com/melzilucas/melzilucas.github.io/blob/c8621731b40454621bd2a9c2afa45a77d29c297f/assets/images/minhavagatech-logo.png?raw=tru" alt="Guia Extenso sobre Tecnologia - MINHA VAGA TECH" width="160" height="160">
   </a>
   <h1 align="center">Guia Extenso sobre Tecnologias</h1>
 </p>
@@ -25,12 +25,6 @@
 ## :beginner: Para quem está começando agora
 
 > Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
-
-## 🚨 Colabore
-
-- Abra Pull Requests com atualizações
-- Discuta ideias em Issues
-- Compartilhe o repositório com a sua comunidade
 
 
 ## 📚 ÍNDICE
