@@ -1,0 +1,4 @@
+python-decouple
+selenium
+webdriver_manager
+python-dotenv
