@@ -7,7 +7,6 @@ link = input('Qual vídeo você deseja baixar? ')
 # Cria uma instância do objeto YouTube
 yt = YouTube(link)
 
-print('Baixando o vídeo: ', yt.title, 'que possui', yt.views, 'visualizações')
 
 # Obtém a melhor qualidade de áudio disponível
 audio = yt.streams.filter(only_audio=True).first()
