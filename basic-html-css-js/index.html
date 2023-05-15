@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Vai trabalhar hoje?</title>
+	<meta charset="UTF-8">
+	<style>
+		body {
+			height: 100vh;
+			background-color: #2a8899;
+		}
+
+		h1 {
+			position: absolute;
+			top: 30%;
+			left: 0;
+			right: 0;
+			margin: auto;
+			text-align: center;
+		}
+
+		.buttons {
+			height: 100%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		.buttons button {
+			margin: 10px;
+			background-color: #fff;
+			border: 1px solid #000;
+			border-radius: 0;
+			outline: 0;
+			padding: 5px 15px;
+			font-size: 30px;
+			cursor: pointer;
+			position: relative;
+		}
+	  
+		.buttons button[value="yes"] {
+			animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both infinite;
+			transform: translate3d(0, 0, 0);
+			perspective: 1000px;
+			z-index: 99999;
+		}
+
+		@keyframes shake {
+			10%, 90% {
+				transform: translate3d(-1px, 0, 0);
+			}
+			20%, 80% {
+				transform: translate3d(2px, 0, 0);
+			}
+			30%, 50%, 70% {
+				transform: translate3d(-4px, 0, 0);
+			}
+			40%, 60% {
+				transform: translate3d(4px, 0, 0);
+			}
+		}
+	</style>
+</head>
+<body>
+	<h1>Vai trabalhar hoje?</h1>
+
+	<div class="buttons">
+		<button value="yes">Sim 🖥️</button>
+		<button value="no">Não 😔</button>
+	</div>
+
+	<script>
+		(function(window, document){
+			document.querySelector('button[value="no"]').addEventListener('mouseenter', function(){
+				const maxHorizontal = ( window.innerWidth / 2 ) - this.offsetWidth;
+				const maxVertical   = ( window.innerHeight / 2 ) - this.offsetHeight;
+
+				let top = Math.floor(Math.random() * maxVertical) + 1;
+				top *= Math.round(Math.random()) ? 1 : -1;
+
+				let left = Math.floor(Math.random() * maxHorizontal) + 1;
+				left *= Math.round(Math.random()) ? 1 : -1;
+
+				this.style.top = `${top}px`;
+				this.style.left = `${left}px`;
+			});
+
+			document.querySelector('button[value="yes"]').addEventListener('click', function(){
+				alert('BOAAA! Não esquece de seguir a @minhavagatech em todas as redes 😉')
+			})
+		})(window, window.document);
+
+		document.addEventListener("visibilitychange",
+        function() {
+            if (document.hidden) {
+                document.title = "VOLTA AQUI 😁";
+            } else {
+                document.title = "Bora trabalhar hoje?";
+            }
+        })
+	</script>
+</body>
+</html>
