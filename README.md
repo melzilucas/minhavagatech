@@ -20,19 +20,19 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 Pprojeto para fomentar tecnologia e ajudar pessoas a ingressar ou migrar para o mercado tecnológico, chamado: <a href="https://instagram.com/minhavagatech">Minha Vaga Tech<a/>.
+        💻 Projeto para fomentar tecnologia e ajudar pessoas a entrarem para o mercado tech, chamado: <a href="https://instagram.com/minhavagatech">Minha Vaga Tech<a/>.
       </p>
       <h3>Você pode me encontrar:</h3>
       <ul>
-        <li>
-          📺 <a href="https://www.youtube.com/@minhavagatech">Inscreva-se no YouTube</a>
-        </li>
-        <li>
-          📷 <a href="https://instagram.com/minhavagatech">Siga me no Instagram</a>
-        </li>
-        <li>
-          📬 <a href="mailto:contato@minhavagatech.com.br">Me envie um e-mail</a>
-        </li>
+          <li>
+            📷 <a href="https://instagram.com/minhavagatech">Siga me no Instagram</a>
+          </li>
+          <li>
+            📺 <a href="https://www.youtube.com/@minhavagatech">Inscreva-se no YouTube</a>
+          </li>
+          <li>
+            📬 <a href="mailto:contato@minhavagatech.com.br">Me envie um e-mail</a>
+          </li>
       </ul>
     </td>
   </tr>
