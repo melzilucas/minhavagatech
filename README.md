@@ -13,7 +13,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://github.com/melzilucas/minhavagatech/logo-minhavagatech-site.png" />
+      <img width="400" src="https://raw.githubusercontent.com/melzilucas/minhavagatech/main/logo-minhavagatech-site.png" />
     </td>
     <td style="border: 0";>
       <p>
