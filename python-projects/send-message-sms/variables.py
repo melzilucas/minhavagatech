@@ -1,0 +1,5 @@
+service_name = 'sns'
+region_name = 'your-region'
+aws_access_key_id = 'your-access-key'
+aws_secret_access_key = 'your-secret-key'
+number_phone = 'your-number'
